@@ -1,4 +1,4 @@
-Hi, I'm @ana
+Hi, I am Ana
 I'm interested in games and paintings
 
 <!---
